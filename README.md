@@ -6,11 +6,12 @@ Simple react project for learning how to persist state across pages, fetch and p
 
 Install dependencies...
 
-````bash
-npm install```
-
+```bash
+npm install
+```
 
 Run app on [localhost](http://localhost:3000)
+
 ```bash
-npm run dev```
-````
+npm run dev
+```
